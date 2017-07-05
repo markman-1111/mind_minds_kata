@@ -1,0 +1,5 @@
+require relative "Def_Sub.rb"
+
+def test_1_2
+	assert_equals(1, (2,1))
+end

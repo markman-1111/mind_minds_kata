@@ -1,0 +1,1 @@
+10.times.map{ Random.rand(9) }
