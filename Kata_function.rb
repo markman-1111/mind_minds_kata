@@ -4,6 +4,8 @@ def num(num1)
 	elsif num1 % 3 == 0
 	"Mined"
 	elsif num1 % 3 == 0
-	"Minds"                       
+	"Minds"                     
+	(1..100).select
   end                           
 end 
+
