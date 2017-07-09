@@ -12,7 +12,7 @@ class Kata_test < Minitest::Test
 	def test_100
 		double(100)
 	end
-	def anothertest
+	def test22
 		assert_equal(2, mm_test(2))
 	end
 end
